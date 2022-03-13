@@ -3,15 +3,15 @@
 
 ### 客户端
 
-![client](../client.png)
+![client](https://github.com/easyeth/timo/blob/main/client.png)
 
 ### 服务端-自用转发使用
 
-![server](../server.png)
+![server](https://github.com/easyeth/timo/blob/main/server.png)
 
 ### 服务端-抽水使用
 
-![server-fee](../server-fee.png)
+![server-fee](https://github.com/easyeth/timo/blob/main/server-fee.png)
 
 ### 下载地址
 
